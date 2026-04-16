@@ -1,5 +1,8 @@
 # 📊 Sales Intelligence Dashboard
 
+## 🌐 Live Demo
+👉 https://sonal092005.github.io/sales-intelligence-dashboard/
+
 A modern Power BI-style dashboard built using HTML, CSS, JavaScript, and Chart.js.
 
 ## 🚀 Features
